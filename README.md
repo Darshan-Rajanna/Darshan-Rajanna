@@ -1,64 +1,72 @@
-# 👨‍💻 Darshan R | Full-Stack Developer | AI Enthusiast 🤖
+# 👨‍💻 Hi there, I'm Darshan R!
 
-Welcome to my GitHub! I am an aspiring **Full-Stack Developer**, currently pursuing **B.E. in Computer Science and Engineering**. I’m passionate about **Artificial Intelligence**, **Machine Learning**, **IoT**, and **Web Development**. I aim to solve real-world problems with technology while continuously learning and evolving as a developer.
+### A passionate **Full-Stack Developer** from India with a deep interest in **AI**, **Machine Learning**, **Web Development**, and **IoT**. 🌱
 
 ![Profile Banner](https://your-image-url.com/banner.png)
 
-## 🌱 What I’m currently learning:
-- Advanced **AI** techniques and **Deep Learning** 🤖
-- **React** for building interactive user interfaces ⚛️
-- Exploring **Web3** and **Blockchain** technology ⛓️
+<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="Coding GIF">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=darshan-r&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-r"/>
+</p>
+
+- 🌱 I’m currently learning **React** and exploring **Deep Learning** techniques 🤖  
+- 💬 Ask me about **Full-Stack Development**, **AI**, **IoT**, and **Machine Vision**  
+- 📫 Reach me at: [darshan@example.com](mailto:darshan@example.com)  
+- ⚡ Fun fact: I love solving complex problems with tech 💡
 
 ---
 
-## 🔧 Technologies & Tools I Use:
-
-- **Languages**: Python, JavaScript, HTML/CSS, SQL
-- **Frameworks & Libraries**: Django, Flask, React, OpenCV, MediaPipe
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Tools**: Git, GitHub, Docker, VS Code, Jupyter
-- **Other**: Machine Learning, Deep Learning, Data Science
-
----
-
-## 🚀 Projects & Contributions
-
-Here are some of the projects I've been working on. Click on the titles to explore:
-
-### 🌾 [Farmer's E-commerce Website](https://github.com/your-repo/farmers-ecommerce)
-An e-commerce platform for farmers to sell their products with a complete backend using Django and MySQL.
-
-### 🛠️ [Machine Vision & IoT](https://github.com/your-repo/machine-vision)
-Using **Machine Vision** techniques to detect defective **solar cells** and **IoT** solutions for remote monitoring of systems.
-
-### 🤖 [Gesture Recognition with OpenCV](https://github.com/your-repo/gesture-recognition)
-Implemented **hand gesture recognition** using **OpenCV** and **MediaPipe** for a variety of gestures like "OK", "Victory", and more.
+## 📚 Connect with me:
+<p align="left">
+  <a href="https://twitter.com/darshan_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/darshanr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/darshan_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
 
 ---
 
-## 💡 Research Publications
-
-I have authored and presented papers on:
-- **"Comparison of Various Machine Learning and Deep Learning Classifiers for the Classification of Defective Photovoltaic Cells"** (RCAAI International Conference 2022)
-- **"Optical Tracking System for Auto-Registration of Multiple Views of a 3D Scanner"** (ICEFEET Conference 2022)
-
-![Research Paper](https://your-image-url.com/research.png)
-
----
-
-## 📫 Get in Touch!
-
-Feel free to reach out to me through:
-- [LinkedIn](your-linkedin)
-- [Email](mailto:your-email@example.com)
-- [Twitter](your-twitter)
+## 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+</p>
 
 ---
 
-## 🌍 Connect with Me
+## 🚀 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshan-r&show_icons=true&locale=en" alt="Darshan R Stats"/>
+</p>
 
-I’m open to collaborating on open-source projects and learning from the community. Let's build something great together! 🤝
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-r&" alt="Darshan R Streak"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-r&show_icons=true&locale=en&layout=compact" alt="Darshan R Languages"/>
+</p>
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+## 🌱 Projects:
+### 🌾 [Farmer's E-commerce Website](https://github.com/darshan-r/farmers-ecommerce)
+An e-commerce platform for farmers to sell their products with a Django backend.
+
+### 🤖 [Gesture Recognition with OpenCV](https://github.com/darshan-r/gesture-recognition)
+Hand gesture recognition using **OpenCV** and **MediaPipe** to identify various hand gestures.
+
+---
+
+## 🌍 Fun Fact:
+I enjoy solving algorithm challenges, contributing to open-source, and keeping up with the latest tech trends. 😎
+
+---
+
+<p align="left">
+  <a href="mailto:darshan@example.com" target="blank"><img src="https://img.shields.io/badge/Contact%20Me-Email-%23303a62?style=for-the-badge" alt="email" /></a>
+</p>
