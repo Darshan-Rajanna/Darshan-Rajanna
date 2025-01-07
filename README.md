@@ -20,7 +20,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">🌾 Farmers E-commerce Website</h3>
         <p style="font-size: 0.9rem;">A full-stack platform for farmers to sell agricultural products directly. Includes advanced frontend design and Google API integration.</p>
-        <a href="https://github.com/username/farmers-ecommerce" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <a href="https://github.com/darshan-rajanna/farmers-ecommerce" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
@@ -28,7 +28,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">🎨 Text-To-Image Generator</h3>
         <p style="font-size: 0.9rem;">Generates images from descriptions using AI, OpenCV, and Machine Learning.</p>
-        <a href="https://github.com/username/text-to-image-generator" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <a href="https://github.com/darshan-rajanna/text-to-image-generator" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">🌱 Crop Recommendation System</h3>
         <p style="font-size: 0.9rem;">Predicts suitable crops based on soil composition and environmental factors.</p>
-        <a href="https://github.com/username/crop-recommendation-system" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <a href="https://github.com/darshan-rajanna/crop-recommendation-system" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
@@ -44,7 +44,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">✋ Hand Sign Translation System</h3>
         <p style="font-size: 0.9rem;">A real-time interactive system translating hand signs using MediaPipe and OpenCV.</p>
-        <a href="https://github.com/username/hand-sign-translation" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <a href="https://github.com/darshan-rajanna/hand-sign-translation" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
@@ -88,7 +88,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 
 <div align="center" style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
 </div>
 
 ---
