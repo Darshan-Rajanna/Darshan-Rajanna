@@ -1,72 +1,108 @@
-# 👨‍💻 Hi there, I'm Darshan R!
+### 🌟 Welcome to the GitHub of <span style="font-weight: bold; color: #007BFF; text-decoration: underline; font-size: 2.2rem;">**Darshan Rajanna**</span>👨‍💻
 
-### A passionate **Full-Stack Developer** from India with a deep interest in **AI**, **Machine Learning**, **Web Development**, and **IoT**. 🌱
-
-![Profile Banner](https://your-image-url.com/banner.png)
-
-<img align="right" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="Coding GIF">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=darshan-r&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-r"/>
-</p>
-
-- 🌱 I’m currently learning **React** and exploring **Deep Learning** techniques 🤖  
-- 💬 Ask me about **Full-Stack Development**, **AI**, **IoT**, and **Machine Vision**  
-- 📫 Reach me at: [darshan@example.com](mailto:darshan@example.com)  
-- ⚡ Fun fact: I love solving complex problems with tech 💡
+Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and **AI Enthusiast**, skilled in crafting innovative and impactful solutions. Currently, I’m pursuing my **Bachelor’s Degree in Computer Science & Engineering** and working on projects involving **Python**, **Django**, and **Machine Learning**.
 
 ---
 
-## 📚 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/darshan_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/darshanr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/darshan_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+### 📝 **About Me**:
+- 🔭 **Currently Working On**: Full-Stack Projects and AI-based Applications.  
+- 🎓 **Education**: Bachelor of Engineering in Computer Science, Sambhram Institute of Technology.  
+- 💼 **Career Goal**: To excel as a Python Web Developer and contribute to AI advancements.  
+- ✍️ **Interests**: Web Development, Machine Learning, and Creative Problem Solving.  
+
+---
+
+### 📚 **Projects**:
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background: linear-gradient(to bottom,rgb(57, 199, 235),rgb(16, 85, 141)); padding: 20px; border-radius: 15px;">
+
+<div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
+    <div style="padding: 15px; text-align: center;">
+        <h3 style="margin: 0; font-size: 1.2rem;">🌾 Farmers E-commerce Website</h3>
+        <p style="font-size: 0.9rem;">A full-stack platform for farmers to sell agricultural products directly. Includes advanced frontend design and Google API integration.</p>
+        <a href="https://github.com/username/farmers-ecommerce" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+    </div>
+</div>
+
+<div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
+    <div style="padding: 15px; text-align: center;">
+        <h3 style="margin: 0; font-size: 1.2rem;">🎨 Text-To-Image Generator</h3>
+        <p style="font-size: 0.9rem;">Generates images from descriptions using AI, OpenCV, and Machine Learning.</p>
+        <a href="https://github.com/username/text-to-image-generator" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+    </div>
+</div>
+
+<div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
+    <div style="padding: 15px; text-align: center;">
+        <h3 style="margin: 0; font-size: 1.2rem;">🌱 Crop Recommendation System</h3>
+        <p style="font-size: 0.9rem;">Predicts suitable crops based on soil composition and environmental factors.</p>
+        <a href="https://github.com/username/crop-recommendation-system" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+    </div>
+</div>
+
+<div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
+    <div style="padding: 15px; text-align: center;">
+        <h3 style="margin: 0; font-size: 1.2rem;">✋ Hand Sign Translation System</h3>
+        <p style="font-size: 0.9rem;">A real-time interactive system translating hand signs using MediaPipe and OpenCV.</p>
+        <a href="https://github.com/username/hand-sign-translation" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+    </div>
+</div>
+
+</div>
+
+---
+
+### 🛠️ **Technologies, Tools & Frameworks**:
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</div>
+
+
+
+
+
+---
+
+### 📈 **GitHub Stats**:
+
+<div align="center" style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+</div>
+
+---
+
+### 🌐 **Connect With Me**:
+
+<p align="center">
+<a href="https://twitter.com/rajannadar80331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajannadar80331" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darshan-rajanna-07-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-rajanna-07-" height="30" width="40" /></a>
+<a href="https://kaggle.com/darshanrajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshan_rajanna_07" height="30" width="40" /></a>
+<a href="https://fb.com/darshan.r.darshi.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan.r.darshi.143" height="30" width="40" /></a>
+<a href="https://instagram.com/darshan_rajanna_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_rajanna_07" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-</p>
-
----
-
-## 🚀 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan-r&show_icons=true&locale=en" alt="Darshan R Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-r&" alt="Darshan R Streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-r&show_icons=true&locale=en&layout=compact" alt="Darshan R Languages"/>
-</p>
-
----
-
-## 🌱 Projects:
-### 🌾 [Farmer's E-commerce Website](https://github.com/darshan-r/farmers-ecommerce)
-An e-commerce platform for farmers to sell their products with a Django backend.
-
-### 🤖 [Gesture Recognition with OpenCV](https://github.com/darshan-r/gesture-recognition)
-Hand gesture recognition using **OpenCV** and **MediaPipe** to identify various hand gestures.
-
----
-
-## 🌍 Fun Fact:
-I enjoy solving algorithm challenges, contributing to open-source, and keeping up with the latest tech trends. 😎
-
----
-
-<p align="left">
-  <a href="mailto:darshan@example.com" target="blank"><img src="https://img.shields.io/badge/Contact%20Me-Email-%23303a62?style=for-the-badge" alt="email" /></a>
-</p>
+### ✨ **Thank you for visiting!** 🌟
