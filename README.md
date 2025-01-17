@@ -42,9 +42,9 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 
 <div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
     <div style="padding: 15px; text-align: center;">
-        <h3 style="margin: 0; font-size: 1.2rem;">✋ Hand Sign Translation System</h3>
-        <p style="font-size: 0.9rem;">A real-time interactive system translating hand signs using MediaPipe and OpenCV.</p>
-        <a href="https://github.com/darshan-rajanna/hand-sign-translation" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <h3 style="margin: 0; font-size: 1.2rem;">🌾 Melomaniczz: Music Website</h3>
+        <p style="font-size: 0.9rem;">An Music Player basic website with hands on PhP codes with convenient database operations demonstration using Xampp, MySql, Apache.</p>
+        <a href="https://github.com/darshan-rajanna/music-website-with-php" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
