@@ -42,7 +42,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 
 <div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
     <div style="padding: 15px; text-align: center;">
-        <h3 style="margin: 0; font-size: 1.2rem;">🌾 Melomaniczz: Music Website</h3>
+        <h3 style="margin: 0; font-size: 1.2rem;">🎶 Melomaniczz: Music Website</h3>
         <p style="font-size: 0.9rem;">An Music Player basic website with hands on PhP codes with convenient database operations demonstration using Xampp, MySql, Apache.</p>
         <a href="https://github.com/darshan-rajanna/music-website-with-php" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
@@ -78,17 +78,13 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-
-
-
-
 ---
 
 ### 📈 **GitHub Stats**:
 
 <div align="center" style="display: flex; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="Top Languages" style="width: 45%;" />
 </div>
 
 ---
