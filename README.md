@@ -20,7 +20,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">🤖 Auto-ML Platform</h3>
         <p style="font-size: 0.9rem;">Automated Model Selection and Hyperparameter Optimization Using Bayesian Optimization: Enhancing Machine Learning Models.</p>
-        <a href="https://github.com/darshan-rajanna/farmers-ecommerce" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+        <a href="https://github.com/Darshan-Rajanna/AutoML-Platform" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
     </div>
 </div>
 
