@@ -91,14 +91,16 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 ### 📈 **GitHub Stats**:
 
 <div align="center" style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" /> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="Top Languages" style="width: 45%;" />
 </div>
 
 ### 🏆 **GitHub Profile Trophy**:
+<div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="800" src="https://github-profile-trophy.vercel.app/?username=darshan-rajanna&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
+</div>
 
 ### 👥 **Profile Views Counter**  
 <p align="center">
