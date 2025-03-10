@@ -109,6 +109,10 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 
 ---
 
+### 📈 GitHub Activity Graph:
+ [![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshan-rajanna&theme=github)](https://github.com/darshan-rajanna)
+
+
 ### 🌐 **Connect With Me**:
 
 <p align="center">
