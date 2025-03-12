@@ -91,7 +91,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 ### 📈 **GitHub Stats**:
 
 <div align="center" style="display: flex; justify-content: space-around;">
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="Top Languages" style="width: 45%;" />
 </div>
 
