@@ -1,11 +1,11 @@
 ### 🌟 Welcome to the GitHub of <span style="font-weight: bold; color: #007BFF; text-decoration: underline; font-size: 2.2rem;">**Darshan Rajanna**</span>👨‍💻
 
-Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and **AI Enthusiast**, skilled in crafting innovative and impactful solutions. Currently, I’m pursuing my **Bachelor’s Degree in Computer Science & Engineering** and working on projects involving **Python**, **Django**, and **Machine Learning**.
+Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and **AI Enthusiast**, skilled in crafting innovative and impactful solutions. Currently, I’m pursuing my **Bachelor’s Degree in Computer Science & Engineering** and working on projects involving **Python**, **Django**, and **Machine Learning** and also learning **Java Software Development**.
 
 ---
 
 ### 📝 **About Me**:
-- 🔭 **Currently Working On**: Full-Stack Projects and AI-based Applications.  
+- 🔭 **Currently Working On**: Full-Stack Projects and AI-based Applications and learning Java Software Development.  
 - 🎓 **Education**: Bachelor of Engineering in Computer Science, Sambhram Institute of Technology.  
 - 💼 **Career Goal**: To excel as a Python Web Developer and contribute to AI advancements.  
 - ✍️ **Interests**: Web Development, Machine Learning, and Creative Problem Solving.  
