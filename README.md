@@ -92,7 +92,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 45%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-rajanna&theme=radical&count_private=true" alt="GitHub Streak" style="width: 45%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-rajanna&theme=radical&count_private=false" alt="GitHub Streak" style="width: 45%;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan-rajanna&theme=radical" alt="Repos Per Language" style="width: 45%;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan-rajanna&theme=radical" alt="Most Commit Language" style="width: 45%;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-rajanna&theme=radical" alt="Profile Details" style="width: 90%;" />
