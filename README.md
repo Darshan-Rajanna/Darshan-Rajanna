@@ -7,8 +7,8 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 ### 📝 **About Me**:
 - 🔭 **Currently Working On**: Full-Stack Projects and AI-based Applications and learning Java Software Development.  
 - 🎓 **Education**: Bachelor of Engineering in Computer Science, Sambhram Institute of Technology.  
-- 💼 **Career Goal**: To excel as a Python Web Developer and contribute to AI advancements.  
-- ✍️ **Interests**: Web Development, Machine Learning, and Creative Problem Solving.  
+- 💼 **Career Goal**: To excel as a Python/Java Developer and contribute to AI advancements.  
+- ✍️ **Interests**: Software Development, Machine Learning, and Creative Problem Solving.  
 
 ---
 
