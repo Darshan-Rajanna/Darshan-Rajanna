@@ -1,14 +1,16 @@
-### 🌟 Welcome to the GitHub of <span style="font-weight: bold; color: #007BFF; text-decoration: underline; font-size: 2.2rem;">**Darshan Rajanna**</span>👨‍💻
+### 🌟 Welcome to the GitHub of <span style="font-weight: bold; color: #007BFF; text-decoration: underline; font-size: 2.2rem;">Darshan Rajanna</span> 👨‍💻
 
-Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and **AI Enthusiast**, skilled in crafting innovative and impactful solutions. Currently, I’m pursuing my **Bachelor’s Degree in Computer Science & Engineering** and working on projects involving **Python**, **Django**, and **Machine Learning** and also learning **Java Software Development**.
+Hi there! 👋 I'm **Darshan Rajanna**, a passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **Emerging Python & Salesforce Developer**.  
+I recently completed my **Bachelor's Degree in Computer Science & Engineering** from Sambhram Institute of Technology, Bangalore, and I'm driven by a mission to craft innovative, real-world applications that make an impact.
 
 ---
 
-### 📝 **About Me**:
-- 🔭 **Currently Working On**: Full-Stack Projects and AI-based Applications and learning Java Software Development.  
-- 🎓 **Education**: Bachelor of Engineering in Computer Science, Sambhram Institute of Technology.  
-- 💼 **Career Goal**: To excel as a Python/Java Developer and contribute to AI advancements.  
-- ✍️ **Interests**: Software Development, Machine Learning, and Creative Problem Solving.  
+### 📝 **About Me**
+- 🔭 **Currently Working On**: Smart IoT systems, AI/ML model pipelines, and CRM-based solutions using Salesforce.
+- 📚 **Recently Graduated**: B.E. in Computer Science Engineering (2025) – 8.23 CGPA  
+- 💡 **Core Strengths**: Python, Django, Flask, TensorFlow, Salesforce (Sales & Service Cloud), Embedded IoT, Android BLE apps.
+- 💼 **Internships**: IBM (AI-ML), Capgemini (Python Full Stack), CMTI (ML for Solar Cell Defect Detection), Analogica (Automation).
+
 
 ---
 
@@ -128,13 +130,17 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 ### 🌐 **Connect With Me**:
 
 <p align="center">
-<a href="https://twitter.com/rajannadar80331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajannadar80331" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshan-rajanna-07-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-rajanna-07-" height="30" width="40" /></a>
-<a href="https://kaggle.com/darshanrajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshan_rajanna_07" height="30" width="40" /></a>
-<a href="https://fb.com/darshan.r.darshi.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan.r.darshi.143" height="30" width="40" /></a>
 <a href="https://instagram.com/darshan_rajanna_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan_rajanna_07" height="30" width="40" /></a>
+<a href="https://twitter.com/rajannadar80331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajannadar80331" height="30" width="40" /></a>
+<a href="https://fb.com/darshan.r.darshi.143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshan.r.darshi.143" height="30" width="40" /></a>
+<a href="https://kaggle.com/darshanrajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshan_rajanna_07" height="30" width="40" /></a>
 </p>
 
 ---
 
-### ✨ **Thank you for visiting!** 🌟
+### ✨ **Thank You for Visiting!** 🌟
+
+If you found any of my projects helpful or interesting, consider leaving a ⭐ on your favorite repository — and don't forget to star this profile too! Your support means a lot 🙌
+
+
