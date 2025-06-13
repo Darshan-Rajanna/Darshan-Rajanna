@@ -17,6 +17,14 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background: linear-gradient(to bottom,rgb(57, 199, 235),rgb(16, 85, 141)); padding: 20px; border-radius: 15px;">
 
 <div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
+  <div style="padding: 15px; text-align: center;">
+    <h3 style="margin: 0; font-size: 1.2rem;">🛡️ ARmor – Smart Helmet</h3>
+    <p style="font-size: 0.9rem;">ESP32-based smart helmet system with real-time alerts, SOS, GPS tracking, and Android BLE integration for rider safety.</p>
+    <a href="https://github.com/Darshan-Rajanna/ARmor" target="_blank" style="color: #007BFF; text-decoration: none; font-size: 0.9rem;">🔗 View Repository</a>
+  </div>
+</div>
+
+<div style="width: 300px; height: 220px; border-radius: 15px; overflow: hidden; backdrop-filter: blur(8px); background: rgba(255, 255, 255, 0.2); box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s, background 0.3s;">
     <div style="padding: 15px; text-align: center;">
         <h3 style="margin: 0; font-size: 1.2rem;">🤖 Auto-ML Platform</h3>
         <p style="font-size: 0.9rem;">Automated Model Selection and Hyperparameter Optimization Using Bayesian Optimization: Enhancing Machine Learning Models.</p>
@@ -94,7 +102,7 @@ Hi there! 👋 I'm **Darshan Rajanna**, an aspiring **Full-Stack Developer** and
     <img src="https://github-readme-stats.vercel.app/api?username=darshan-rajanna&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" style="width: 45%;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshan-rajanna&theme=radical&count_private=false" alt="GitHub Streak" style="width: 45%;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan-rajanna&theme=radical" alt="Repos Per Language" style="width: 45%;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshan-rajanna&theme=radical" alt="Most Commit Language" style="width: 45%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-rajanna&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" style="width: 45%;" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-rajanna&theme=radical" alt="Profile Details" style="width: 90%;" />
 </div>
 
