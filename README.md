@@ -1,16 +1,21 @@
-### 🌟 Welcome to the GitHub of <span style="font-weight: bold; color: #007BFF; text-decoration: underline; font-size: 2.2rem;">Darshan Rajanna</span> 👨‍💻
+### 🌟 Welcome to the GitHub of **Darshan Rajanna** 👨‍💻
 
-Hi there! 👋 I'm **Darshan Rajanna**, a passionate **Full-Stack Developer**, **AI/ML Enthusiast**, and **Emerging Python & Salesforce Developer**.  
-I recently completed my **Bachelor's Degree in Computer Science & Engineering** from Sambhram Institute of Technology, Bangalore, and I'm driven by a mission to craft innovative, real-world applications that make an impact.
-
+Hi there! 👋 I'm **Darshan Rajanna**, a passionate **Full-Stack Developer, AI/ML Enthusiast**, and **Emerging Python & Cloud Infrastructure Developer**.  
+I recently completed my **B.E. in Computer Science & Engineering (2025)** from *Sambhram Institute of Technology, Bangalore*, with an **8.46 CGPA**, and I’m driven by a mission to craft real-world, impactful tech solutions.
 ---
 
 ### 📝 **About Me**
-- 🔭 **Currently Working On**: Smart IoT systems, AI/ML model pipelines, and CRM-based solutions using Salesforce.
-- 📚 **Recently Graduated**: B.E. in Computer Science Engineering (2025) – 8.23 CGPA  
-- 💡 **Core Strengths**: Python, Django, Flask, TensorFlow, Salesforce (Sales & Service Cloud), Embedded IoT, Android BLE apps.
-- 💼 **Internships**: IBM (AI-ML), Capgemini (Python Full Stack), CMTI (ML for Solar Cell Defect Detection), Analogica (Automation).
+- 🔭 **Currently Working On**: *Unisys (supporting Unilever IT Service Desk)* – managing **Azure, Entra ID, Intune, Citrix**, and **ServiceNow**, while learning cloud observability tools like **Dynatrace**. 
+- 💡 **Core Strengths**: Python, Django, Flask, Java, SQL, TensorFlow, Pytorch, Image Processing, Machine Learning, Cloud Infrastructure & Applications, Embedded IoT, Android BLE apps, and REST APIs.
+- - 📚 **Recently Graduated**: B.E. – CSE (2025) | **CGPA: 8.46**
 
+---
+
+### 💼 **Internships**: 
+- **IBM (AI-ML Intern)**: Built AutoML platform with Bayesian optimization (30% faster tuning).
+- **Capgemini (Python Full Stack)**: Developed full-stack apps using Django/Flask with MySQL.
+- **CMTI (ML Research Intern)**: Solar-cell defect detection with CNN (99% accuracy).
+- **Analogica (Automation Analyst)**: Automated report generation with Python, saving hours weekly.
 
 ---
 
