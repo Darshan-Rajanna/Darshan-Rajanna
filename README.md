@@ -8,7 +8,7 @@ I recently completed my **B.E. in Computer Science & Engineering (2025)** from *
 ### 📝 **About Me**
 - 🔭 **Currently Working On**: *Unisys (supporting Unilever IT Service Desk)* – managing **Azure, Entra ID, Intune, Citrix**, and **ServiceNow**, while learning cloud observability tools like **Dynatrace**. 
 - 💡 **Core Strengths**: Python, Django, Flask, Java, SQL, TensorFlow, Pytorch, Image Processing, Machine Learning, Cloud Infrastructure & Applications, Embedded IoT, Android BLE apps, and REST APIs.
-- - 📚 **Recently Graduated**: B.E. – CSE (2025) | **CGPA: 8.46**
+- 📚 **Recently Graduated**: B.E. – CSE (2025) | **CGPA: 8.46**
 
 ---
 
@@ -147,6 +147,10 @@ I recently completed my **B.E. in Computer Science & Engineering (2025)** from *
 
 ### ✨ **Thank You for Visiting!** 🌟
 
-If you found any of my projects helpful or interesting, consider leaving a ⭐ on your favorite repository — and don't forget to star this profile too! Your support means a lot 🙌
+<p align="center">
+  💫 If you found any of my projects helpful or inspiring, consider leaving a⭐ on your favorite repository - and don’t forget to
+  <a href="https://github.com/darshan-rajanna" target="_blank">star this profile</a> too!
+  Your support keeps me motivated to build and share more. 🙌
+</p>
 
 
