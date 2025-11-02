@@ -2,6 +2,7 @@
 
 Hi there! 👋 I'm **Darshan Rajanna**, a passionate **Full-Stack Developer, AI/ML Enthusiast**, and **Emerging Python & Cloud Infrastructure Developer**.  
 I recently completed my **B.E. in Computer Science & Engineering (2025)** from *Sambhram Institute of Technology, Bangalore*, with an **8.46 CGPA**, and I’m driven by a mission to craft real-world, impactful tech solutions.
+
 ---
 
 ### 📝 **About Me**
